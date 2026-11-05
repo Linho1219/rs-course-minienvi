@@ -1,6 +1,6 @@
 # MiniENVI Classic
 
-一个参考 ENVI Classic 交互方式实现的课程作业级遥感图像处理框架。
+一个参考 ENVI Classic 交互方式实现的课程作业级遥感图像处理工具。100% AI 生成。
 
 ## 功能
 
